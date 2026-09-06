@@ -64,7 +64,7 @@ Players are expected to:
 ## 📸 Screenshots
 
 ### Main Menu
-![LogiLearn Main Menu](Screenshots/Main-menu.png)
+![LogiLearn Main Menu](Screenshots/Main-menu.jpg)
 
 ### Levels
 ![Logilearn Levels](Screenshots/Levels.jpg)
