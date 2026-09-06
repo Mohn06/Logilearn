@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b2f9f729fca5b7d4d8decebb9bf4e0d8, type: 3}
+  m_Name: NANDGateTutorial
+  m_EditorClassIdentifier: Assembly-CSharp::TutorialSO
+  tutorialID: nand
+  title: NAND Gate
+  pages:
+  - image: {fileID: 3223091865968251079, guid: 65557a665b966b642b04621316fa8e4e, type: 3}
+    description: The NAND gate is the opposite of the AND gate. It outputs 0 only
+      when all inputs are 1. It is also known as a universal gate because any other
+      logic gate (AND, OR, NOT, etc.) can be constructed using only NAND gates.

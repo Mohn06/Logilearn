@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b2f9f729fca5b7d4d8decebb9bf4e0d8, type: 3}
+  m_Name: Truth Table Challenge
+  m_EditorClassIdentifier: Assembly-CSharp::TutorialSO
+  tutorialID: challenge
+  title: Truth Table Challenge
+  pages:
+  - image: {fileID: 21300000, guid: cdffed4e7501ede4c90a27a5248e6816, type: 3}
+    description: 'Complete the truth table based on the given circuit.
+
+      Analyze
+      how the inputs affect the output and fill in the correct values.'
+  - image: {fileID: 21300000, guid: 76a452e4cda895440957e479836e4b49, type: 3}
+    description: 'Observe the circuit carefully.
+
+      Identify how the logic gates
+      process inputs A, B, and C to produce the output.'
+  - image: {fileID: 21300000, guid: 79eeca973db472c48829ef0eeabce590, type: 3}
+    description: 'Interact with the console to open the truth table. Set the correct
+      inputs for A, B, and C.
+
+      Complete all rows of the truth table correctly
+      to unlock the door. '

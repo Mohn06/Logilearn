@@ -1,0 +1,297 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "M:\\Unity Project\\2d Topdown Game\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{80E1FAE0-0E11-DC1E-8218-9AAB5F7FB0B7}|Assembly-CSharp.csproj|m:\\unity project\\2d topdown game\\assets\\scripts\\scene script\\level select script\\levellockcollider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80E1FAE0-0E11-DC1E-8218-9AAB5F7FB0B7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scene script\\level select script\\levellockcollider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80E1FAE0-0E11-DC1E-8218-9AAB5F7FB0B7}|Assembly-CSharp.csproj|M:\\Unity Project\\2d Topdown Game\\assets\\scripts\\logic\\switch_on.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80E1FAE0-0E11-DC1E-8218-9AAB5F7FB0B7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\logic\\switch_on.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80E1FAE0-0E11-DC1E-8218-9AAB5F7FB0B7}|Assembly-CSharp.csproj|M:\\Unity Project\\2d Topdown Game\\assets\\scripts\\logic\\switch_off.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80E1FAE0-0E11-DC1E-8218-9AAB5F7FB0B7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\logic\\switch_off.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80E1FAE0-0E11-DC1E-8218-9AAB5F7FB0B7}|Assembly-CSharp.csproj|M:\\Unity Project\\2d Topdown Game\\assets\\scripts\\arduino script\\drag and drop\\toastmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80E1FAE0-0E11-DC1E-8218-9AAB5F7FB0B7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\arduino script\\drag and drop\\toastmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80E1FAE0-0E11-DC1E-8218-9AAB5F7FB0B7}|Assembly-CSharp.csproj|M:\\Unity Project\\2d Topdown Game\\assets\\scripts\\scene script\\level select script\\levellockquiz1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80E1FAE0-0E11-DC1E-8218-9AAB5F7FB0B7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scene script\\level select script\\levellockquiz1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80E1FAE0-0E11-DC1E-8218-9AAB5F7FB0B7}|Assembly-CSharp.csproj|M:\\Unity Project\\2d Topdown Game\\assets\\scripts\\scene script\\level select script\\levellockquiz2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80E1FAE0-0E11-DC1E-8218-9AAB5F7FB0B7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scene script\\level select script\\levellockquiz2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80E1FAE0-0E11-DC1E-8218-9AAB5F7FB0B7}|Assembly-CSharp.csproj|M:\\Unity Project\\2d Topdown Game\\assets\\scripts\\scene script\\level select script\\levelbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80E1FAE0-0E11-DC1E-8218-9AAB5F7FB0B7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scene script\\level select script\\levelbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80E1FAE0-0E11-DC1E-8218-9AAB5F7FB0B7}|Assembly-CSharp.csproj|M:\\Unity Project\\2d Topdown Game\\assets\\scripts\\scene script\\levelselection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80E1FAE0-0E11-DC1E-8218-9AAB5F7FB0B7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scene script\\levelselection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80E1FAE0-0E11-DC1E-8218-9AAB5F7FB0B7}|Assembly-CSharp.csproj|M:\\Unity Project\\2d Topdown Game\\assets\\scripts\\quiz script\\quizmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80E1FAE0-0E11-DC1E-8218-9AAB5F7FB0B7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\quiz script\\quizmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80E1FAE0-0E11-DC1E-8218-9AAB5F7FB0B7}|Assembly-CSharp.csproj|M:\\Unity Project\\2d Topdown Game\\assets\\scenes\\arduino level\\script\\draggablewire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80E1FAE0-0E11-DC1E-8218-9AAB5F7FB0B7}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\arduino level\\script\\draggablewire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80E1FAE0-0E11-DC1E-8218-9AAB5F7FB0B7}|Assembly-CSharp.csproj|M:\\Unity Project\\2d Topdown Game\\assets\\scripts\\logic\\logic gates\\logicoutputdisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80E1FAE0-0E11-DC1E-8218-9AAB5F7FB0B7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\logic\\logic gates\\logicoutputdisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80E1FAE0-0E11-DC1E-8218-9AAB5F7FB0B7}|Assembly-CSharp.csproj|M:\\Unity Project\\2d Topdown Game\\assets\\scenes\\arduino level\\script\\arduinopuzzlepopup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80E1FAE0-0E11-DC1E-8218-9AAB5F7FB0B7}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\arduino level\\script\\arduinopuzzlepopup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80E1FAE0-0E11-DC1E-8218-9AAB5F7FB0B7}|Assembly-CSharp.csproj|M:\\Unity Project\\2d Topdown Game\\assets\\scripts\\logic\\wire script\\wirepath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80E1FAE0-0E11-DC1E-8218-9AAB5F7FB0B7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\logic\\wire script\\wirepath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80E1FAE0-0E11-DC1E-8218-9AAB5F7FB0B7}|Assembly-CSharp.csproj|M:\\Unity Project\\2d Topdown Game\\assets\\scripts\\logic\\wire script\\uipanelmagnifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80E1FAE0-0E11-DC1E-8218-9AAB5F7FB0B7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\logic\\wire script\\uipanelmagnifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80E1FAE0-0E11-DC1E-8218-9AAB5F7FB0B7}|Assembly-CSharp.csproj|M:\\Unity Project\\2d Topdown Game\\assets\\scenes\\arduino level\\script\\arduinodroppoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80E1FAE0-0E11-DC1E-8218-9AAB5F7FB0B7}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\arduino level\\script\\arduinodroppoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80E1FAE0-0E11-DC1E-8218-9AAB5F7FB0B7}|Assembly-CSharp.csproj|M:\\Unity Project\\2d Topdown Game\\assets\\scenes\\arduino level\\script\\arduinoconsole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80E1FAE0-0E11-DC1E-8218-9AAB5F7FB0B7}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\arduino level\\script\\arduinoconsole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80E1FAE0-0E11-DC1E-8218-9AAB5F7FB0B7}|Assembly-CSharp.csproj|M:\\Unity Project\\2d Topdown Game\\assets\\scenes\\arduino level\\script\\arduinowire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80E1FAE0-0E11-DC1E-8218-9AAB5F7FB0B7}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\arduino level\\script\\arduinowire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 343,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Switch_On.cs",
+              "DocumentMoniker": "M:\\Unity Project\\2d Topdown Game\\Assets\\Scripts\\Logic\\Switch_On.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Logic\\Switch_On.cs",
+              "ToolTip": "M:\\Unity Project\\2d Topdown Game\\Assets\\Scripts\\Logic\\Switch_On.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Logic\\Switch_On.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAswD0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T00:31:35.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Switch_OFF.cs",
+              "DocumentMoniker": "M:\\Unity Project\\2d Topdown Game\\Assets\\Scripts\\Logic\\Switch_OFF.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Logic\\Switch_OFF.cs",
+              "ToolTip": "M:\\Unity Project\\2d Topdown Game\\Assets\\Scripts\\Logic\\Switch_OFF.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Logic\\Switch_OFF.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAIwEoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T00:31:21.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LevelLockQuiz2.cs",
+              "DocumentMoniker": "M:\\Unity Project\\2d Topdown Game\\Assets\\Scripts\\Scene Script\\Level Select script\\LevelLockQuiz2.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Scene Script\\Level Select script\\LevelLockQuiz2.cs",
+              "ToolTip": "M:\\Unity Project\\2d Topdown Game\\Assets\\Scripts\\Scene Script\\Level Select script\\LevelLockQuiz2.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Scene Script\\Level Select script\\LevelLockQuiz2.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCQAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T23:38:06.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LevelLockQuiz1.cs",
+              "DocumentMoniker": "M:\\Unity Project\\2d Topdown Game\\Assets\\Scripts\\Scene Script\\Level Select script\\LevelLockQuiz1.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Scene Script\\Level Select script\\LevelLockQuiz1.cs",
+              "ToolTip": "M:\\Unity Project\\2d Topdown Game\\Assets\\Scripts\\Scene Script\\Level Select script\\LevelLockQuiz1.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Scene Script\\Level Select script\\LevelLockQuiz1.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAYwCQAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T23:38:04.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LevelLockCollider.cs",
+              "DocumentMoniker": "M:\\Unity Project\\2d Topdown Game\\Assets\\Scripts\\Scene Script\\Level Select script\\LevelLockCollider.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Scene Script\\Level Select script\\LevelLockCollider.cs",
+              "ToolTip": "M:\\Unity Project\\2d Topdown Game\\Assets\\Scripts\\Scene Script\\Level Select script\\LevelLockCollider.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Scene Script\\Level Select script\\LevelLockCollider.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAIwCsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T23:14:23.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LevelButton.cs",
+              "DocumentMoniker": "M:\\Unity Project\\2d Topdown Game\\Assets\\Scripts\\Scene Script\\Level Select script\\LevelButton.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Scene Script\\Level Select script\\LevelButton.cs",
+              "ToolTip": "M:\\Unity Project\\2d Topdown Game\\Assets\\Scripts\\Scene Script\\Level Select script\\LevelButton.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Scene Script\\Level Select script\\LevelButton.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAiwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T22:59:01.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LevelSelection.cs",
+              "DocumentMoniker": "M:\\Unity Project\\2d Topdown Game\\Assets\\Scripts\\Scene Script\\LevelSelection.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Scene Script\\LevelSelection.cs",
+              "ToolTip": "M:\\Unity Project\\2d Topdown Game\\Assets\\Scripts\\Scene Script\\LevelSelection.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Scene Script\\LevelSelection.cs",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAuwKYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T22:58:13.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ToastMessage.cs",
+              "DocumentMoniker": "M:\\Unity Project\\2d Topdown Game\\Assets\\Scripts\\arduino Script\\drag and drop\\ToastMessage.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\arduino Script\\drag and drop\\ToastMessage.cs",
+              "ToolTip": "M:\\Unity Project\\2d Topdown Game\\Assets\\Scripts\\arduino Script\\drag and drop\\ToastMessage.cs",
+              "RelativeToolTip": "Assets\\Scripts\\arduino Script\\drag and drop\\ToastMessage.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAswDsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T22:56:22.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "QuizManager.cs",
+              "DocumentMoniker": "M:\\Unity Project\\2d Topdown Game\\Assets\\Scripts\\quiz script\\QuizManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\quiz script\\QuizManager.cs",
+              "ToolTip": "M:\\Unity Project\\2d Topdown Game\\Assets\\Scripts\\quiz script\\QuizManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\quiz script\\QuizManager.cs",
+              "ViewState": "AgIAACUBAAAAAAAAAAAuwEoBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T21:59:28.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LogicOutputDisplay.cs",
+              "DocumentMoniker": "M:\\Unity Project\\2d Topdown Game\\Assets\\Scripts\\Logic\\Logic Gates\\LogicOutputDisplay.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Logic\\Logic Gates\\LogicOutputDisplay.cs",
+              "ToolTip": "M:\\Unity Project\\2d Topdown Game\\Assets\\Scripts\\Logic\\Logic Gates\\LogicOutputDisplay.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Logic\\Logic Gates\\LogicOutputDisplay.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T11:33:57.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UiPanelMagnifier.cs",
+              "DocumentMoniker": "M:\\Unity Project\\2d Topdown Game\\Assets\\Scripts\\Logic\\WIre Script\\UiPanelMagnifier.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Logic\\WIre Script\\UiPanelMagnifier.cs",
+              "ToolTip": "M:\\Unity Project\\2d Topdown Game\\Assets\\Scripts\\Logic\\WIre Script\\UiPanelMagnifier.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Logic\\WIre Script\\UiPanelMagnifier.cs",
+              "ViewState": "AgIAAHQAAAAAAAAAAAAiwJsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T08:14:16.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "WirePath.cs",
+              "DocumentMoniker": "M:\\Unity Project\\2d Topdown Game\\Assets\\Scripts\\Logic\\WIre Script\\WirePath.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Logic\\WIre Script\\WirePath.cs",
+              "ToolTip": "M:\\Unity Project\\2d Topdown Game\\Assets\\Scripts\\Logic\\WIre Script\\WirePath.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Logic\\WIre Script\\WirePath.cs",
+              "ViewState": "AgIAAK0BAAAAAAAAAAAUwNMBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T07:04:38.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DraggableWire.cs",
+              "DocumentMoniker": "M:\\Unity Project\\2d Topdown Game\\Assets\\Scenes\\Arduino level\\Script\\DraggableWire.cs",
+              "RelativeDocumentMoniker": "Assets\\Scenes\\Arduino level\\Script\\DraggableWire.cs",
+              "ToolTip": "M:\\Unity Project\\2d Topdown Game\\Assets\\Scenes\\Arduino level\\Script\\DraggableWire.cs",
+              "RelativeToolTip": "Assets\\Scenes\\Arduino level\\Script\\DraggableWire.cs",
+              "ViewState": "AgIAAMkAAAAAAAAAAAAUwPUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T00:21:12.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ArduinoDropPoint.cs",
+              "DocumentMoniker": "M:\\Unity Project\\2d Topdown Game\\Assets\\Scenes\\Arduino level\\Script\\ArduinoDropPoint.cs",
+              "RelativeDocumentMoniker": "Assets\\Scenes\\Arduino level\\Script\\ArduinoDropPoint.cs",
+              "ToolTip": "M:\\Unity Project\\2d Topdown Game\\Assets\\Scenes\\Arduino level\\Script\\ArduinoDropPoint.cs",
+              "RelativeToolTip": "Assets\\Scenes\\Arduino level\\Script\\ArduinoDropPoint.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T00:12:36.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ArduinoConsole.cs",
+              "DocumentMoniker": "M:\\Unity Project\\2d Topdown Game\\Assets\\Scenes\\Arduino level\\Script\\ArduinoConsole.cs",
+              "RelativeDocumentMoniker": "Assets\\Scenes\\Arduino level\\Script\\ArduinoConsole.cs",
+              "ToolTip": "M:\\Unity Project\\2d Topdown Game\\Assets\\Scenes\\Arduino level\\Script\\ArduinoConsole.cs",
+              "RelativeToolTip": "Assets\\Scenes\\Arduino level\\Script\\ArduinoConsole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAswBcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T23:41:28.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ArduinoWire.cs",
+              "DocumentMoniker": "M:\\Unity Project\\2d Topdown Game\\Assets\\Scenes\\Arduino level\\Script\\ArduinoWire.cs",
+              "RelativeDocumentMoniker": "Assets\\Scenes\\Arduino level\\Script\\ArduinoWire.cs",
+              "ToolTip": "M:\\Unity Project\\2d Topdown Game\\Assets\\Scenes\\Arduino level\\Script\\ArduinoWire.cs",
+              "RelativeToolTip": "Assets\\Scenes\\Arduino level\\Script\\ArduinoWire.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T23:18:58.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ArduinoPuzzlePopup.cs",
+              "DocumentMoniker": "M:\\Unity Project\\2d Topdown Game\\Assets\\Scenes\\Arduino level\\Script\\ArduinoPuzzlePopup.cs",
+              "RelativeDocumentMoniker": "Assets\\Scenes\\Arduino level\\Script\\ArduinoPuzzlePopup.cs",
+              "ToolTip": "M:\\Unity Project\\2d Topdown Game\\Assets\\Scenes\\Arduino level\\Script\\ArduinoPuzzlePopup.cs",
+              "RelativeToolTip": "Assets\\Scenes\\Arduino level\\Script\\ArduinoPuzzlePopup.cs",
+              "ViewState": "AgIAALsAAAAAAAAAAAA2wOIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T23:17:45.227Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b2f9f729fca5b7d4d8decebb9bf4e0d8, type: 3}
+  m_Name: Wire
+  m_EditorClassIdentifier: Assembly-CSharp::TutorialSO
+  tutorialID: wire
+  title: Wire
+  pages:
+  - image: {fileID: 21300000, guid: b25006b189004494aa161ae0963a8237, type: 3}
+    description: Wires connect components in the circuit. It sends the signals from
+      the source to its target
+  - image: {fileID: 21300000, guid: 2b8e10041c6ee03439cbd2fa188d2313, type: 3}
+    description: Wires connect components in the circuit. It sends the signals from
+      the source to its target

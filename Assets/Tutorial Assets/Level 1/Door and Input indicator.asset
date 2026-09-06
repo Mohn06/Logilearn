@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b2f9f729fca5b7d4d8decebb9bf4e0d8, type: 3}
+  m_Name: Door and Input indicator
+  m_EditorClassIdentifier: Assembly-CSharp::TutorialSO
+  tutorialID: door
+  title: Door and Input Indicator
+  pages:
+  - image: {fileID: 21300000, guid: 55d8e680ab8d3824da8c030a9c3840e2, type: 3}
+    description: The Door needed an input signal to work
+  - image: {fileID: 21300000, guid: 12b2d36d853c31a48a7164485ceaa6a8, type: 3}
+    description: The Door opens only when the correct input signal is produced.
+  - image: {fileID: 21300000, guid: b9caf5aaffe425844a28c1e562ff4fbd, type: 3}
+    description: The Input Indicator shows the signal needed to open the door.

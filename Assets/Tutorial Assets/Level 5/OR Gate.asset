@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b2f9f729fca5b7d4d8decebb9bf4e0d8, type: 3}
+  m_Name: OR Gate
+  m_EditorClassIdentifier: Assembly-CSharp::TutorialSO
+  tutorialID: or
+  title: OR gate
+  pages:
+  - image: {fileID: 21300000, guid: 89f413404fd0c624fbc990e6b4ffc730, type: 3}
+    description: 'The OR Gate outputs 1 (ON) if at least one input is 1.
+
+      The
+      output is 0 only when all inputs are 0.'

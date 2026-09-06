@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b2f9f729fca5b7d4d8decebb9bf4e0d8, type: 3}
+  m_Name: Arduino
+  m_EditorClassIdentifier: Assembly-CSharp::TutorialSO
+  tutorialID: arduino
+  title: Arduino Panel
+  pages:
+  - image: {fileID: 21300000, guid: cd7e307bd475a584c9bc2b53b0c91a4b, type: 3}
+    description: 'Inspect the Arduino code on the panel.
+
+      Ensure all wires
+      are properly connected and each pin is placed correctly.'
+  - image: {fileID: 21300000, guid: 2d58172b2516e05478874e05745b30c8, type: 3}
+    description: 'Connect the battery to the Arduino properly.
+
+      Make sure to
+      connect the possivite is connected to 5V and negative to Ground(GND).'
+  - image: {fileID: 21300000, guid: d02870602a2f36e4f8804d7d6ed06652, type: 3}
+    description: Connect the LED to the correct pin and ground. The longer leg is
+      the possitive and the shorter one is negative.
+  - image: {fileID: 21300000, guid: 4fb515474f576694489160b6076c74c9, type: 3}
+    description: 'Check the resistor placement in the circuit.
+
+      Ensure it is
+      properly connected to limit the current flowing to the LED.'
+  - image: {fileID: 21300000, guid: 6d608a19d8e36cc48a14bf8a67d64e45, type: 3}
+    description: Complete the circuit correctly base on the code provided and tap
+      submit to turn the power back on.
